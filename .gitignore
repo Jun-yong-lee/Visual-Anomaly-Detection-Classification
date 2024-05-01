@@ -162,3 +162,4 @@ cython_debug/
 dataset/*
 mvtec_anomaly_detection_imagefolder/*
 checkpoints/*
+mvtec_anomaly_detection_imagefolder_backup/*
